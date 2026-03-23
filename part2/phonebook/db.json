@@ -1,8 +1,115 @@
 {
   "persons": [
-    { "name": "Arto Hellas", "number": "040-123456", "id": "1" },
-    { "name": "Ada Lovelace", "number": "39-44-5323523", "id": "2" },
-    { "name": "Dan Abramov", "number": "12-43-234345", "id": "3" },
-    { "name": "Mary Poppendieck", "number": "39-23-6423122", "id": "4" }
-  ]
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": "1"
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": "2"
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": "3"
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": "4"
+    },
+    {
+      "name": "Sanat",
+      "number": "8522512222222",
+      "id": "o73dBvskd1U"
+    },
+    {
+      "name": "Tommy jake ",
+      "number": "603-752-985200",
+      "id": "hsO63WuGgx8"
+    },
+    {
+      "name": "Henderson Laliy",
+      "number": "630-542-89752",
+      "id": "2M59Jlycevg"
+    },
+    {
+      "name": "Eminem Uka",
+      "number": "666-666-665-85",
+      "id": "fz-CRUL2Jnw"
+    },
+    {
+      "name": "Hanna ",
+      "number": "33325525552",
+      "id": "z2V19tSfH5E"
+    },
+    {
+      "name": "Jake Killer",
+      "number": "96582582822",
+      "id": "8Y189AVRt7Q"
+    },
+    {
+      "name": "Muike Holer ",
+      "number": "89852555555",
+      "id": "VKSMRQEzWXY"
+    },
+    {
+      "name": "Jeller",
+      "number": "holand",
+      "id": "Ds6y0UG1RAM"
+    },
+    {
+      "name": "Henderson Laliy",
+      "number": "5525555555",
+      "id": "O4LTLoqNIZ4"
+    },
+    {
+      "name": "Muike Holer",
+      "number": "",
+      "id": "ywECnGuujBg"
+    },
+    {
+      "name": "Jake Killer",
+      "number": "252825482852852",
+      "id": "CKU1Z2_1v9I"
+    },
+    {
+      "name": "John dove",
+      "number": "852052963741",
+      "id": "NypeXxYAKyQ"
+    },
+    {
+      "name": "John kenadey",
+      "number": "71852096304",
+      "id": "aSqlIWTp4XU"
+    },
+    {
+      "name": "Joames",
+      "number": "952741096320",
+      "id": "KUjqWLlestM"
+    },
+    {
+      "name": "James Bond",
+      "number": "5245255222552",
+      "id": "pK9QhoI3HCo"
+    },
+    {
+      "name": "Kollar Giue",
+      "number": "857410962374120",
+      "id": "qiC96YgTeHU"
+    },
+    {
+      "name": "Hobyy folder",
+      "number": "74162985412",
+      "id": "zZVh_AnllLo"
+    },
+    {
+      "name": "Gollaer Gore",
+      "number": "74108520963.",
+      "id": "BSI48OHfoVE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

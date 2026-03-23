@@ -1,0 +1,15 @@
+const deletePerson = (id, name) => {
+  if (window.confirm(`Delete ${name}?`)) {
+    axios
+      .delete(`http://localhost:3001/persons/${id}`)
+      .then(() => {
+        // After successful delete on server, update local state
+        // We filter out the deleted person from the current persons array
+        setPersons(persons.filter(p => p.id !== id))
+      })
+      .catch(error => {
+        alert(`The person '${name}' was already deleted from server`)
+        setPersons(persons.filter(p => p.id !== id))
+      })
+  }
+}
